@@ -1,4 +1,4 @@
-# Class4Sura
+# Class4 Python Sura
 
 condicionales y ciclos con Python
 --
